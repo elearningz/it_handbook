@@ -3,4 +3,3 @@
 ## Created by Neal MacInnes / Allison Lee
 
 Welcome to the Academic Technology Handbook...
-Look and Learn! :-D
