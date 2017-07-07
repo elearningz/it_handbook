@@ -35,3 +35,9 @@ The media here can be made on any device and then uploaded or you can use TechSm
    * Edit the title and description and select the option U of T only and then click Save.
    * You should now see a **Permanent Play Link** available
    * Copy this Permanent Play Link and paste it into the text submission area of your Blackboard Assignment and then Submit.
+
+
+   EOF
+
+
+   *no notes from Neal*
