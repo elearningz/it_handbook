@@ -16,4 +16,5 @@ It is your responsibility to back-up and archive your Blackboard Collaborate Rec
    EOF
 
    **Add some guidance here regarding expected duration of the conversion process ie. 1:1 time of recording to time of conversion. Note they may need to refresh the course or leave the page and come back.**
-   
+
+   **Added some timing content. Is it enough and understandable?
