@@ -1,5 +1,3 @@
-Chekc on the U of T bb information page. Probably already good information there.
+Pretty good information on the site here: http://portalinfo.utoronto.ca/content/create-test
 
-Should I link, repeat or both?
-
-Probably both.
+Also a video walkthrough here: http://portalinfo.utoronto.ca/content/create-test#video
