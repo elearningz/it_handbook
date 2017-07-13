@@ -1,7 +1,6 @@
 # Discussion Boards
 
-
-USed to enable discussions with and amoung students
+Used to enable discussions with and amoung students
 Consists of FORUMS and THREADS
 A forum is an area for discussion about a topic, and thread discussions are that forum.
 (i.e., A forum could be Week 1 and on that forum will be threads discussing topics from that week)
