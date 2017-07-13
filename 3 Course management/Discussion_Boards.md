@@ -1,12 +1,10 @@
 # Discussion Boards
 
 
-Talk about discussion boards here
+USed to enable discussions with and amoung students
+Consists of FORUMS and THREADS
+A forum is an area for discussion about a topic, and thread discussions are that forum.
+(i.e., A forum could be Week 1 and on that forum will be threads discussing topics from that week)
 
-how exciting they are
-
-not old technology at all...
-
-just like the ones I used to use back in the 80's
-
-Tres exciting!
+Link to the topic at postal info http://www.portalinfo.utoronto.ca/content/discussion-board
+(not all that good IMO, but have a look)
