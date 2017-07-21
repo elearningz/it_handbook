@@ -12,7 +12,7 @@ The third section focuses on **Additional Technologies** not mentioned in the fi
 
 The final section is an **Appendix** containing templates and resources for reference as well as practical use. It contains things such as course checklists, email templates, announcement templates, and student handouts.  
 
-We try to incorporate updates regularly so we recommend keeping an eye on [URL TBD](#) to see if you have the latest information.
+We try to incorporate updates regularly so we recommend keeping an eye on [updates made to the handbook](https://github.com/elearningz/it_handbook/commits/master) to see if you have the latest information. Major changes and releases of the handbook will also be listed on the [updates page](#) in the handbook itself.
 
 This handbook is also meant to be a collaborative with our Faculty so if you have any suggestions or would like to highlight something you've done as a way to promote best practices with integrating technology into your teaching please get in touch.
 
