@@ -2,7 +2,7 @@
 
 You can copy all, or parts, of your existing course into a new course or another existing course. This copy can include course materials and settings for tools like the discussion board, blogs and journals. There can be great time saving benefits as well as opportunities for collaboration and sharing by making use of teh course copy function to move parts of one course to the newest version or into another course entirely.
 
-When copying an entire course it is important to keep in mind the storgae quota for each course make the course cleanup process (covered elsewhere in this hanbook) an important first step.
+When copying an entire course it is important to keep in mind the storage quota for each course make the course cleanup process (covered elsewhere in this hanbook) an important first step.
 
 Typically course copies are performed or requested as soon as possible after the new term's courses are available.
 
