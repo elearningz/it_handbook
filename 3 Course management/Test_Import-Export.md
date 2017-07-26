@@ -1,6 +1,6 @@
 # Test Imports/Exports
 
-Instructors can build their own test questions and assign specific point values to each question. When a student completes a test, it is submitted for grading and the results are recorded in the Grade Centre. Tests can be added to any content area within a course. Instructors can export tests from their current or previous courses and import tests into a new course.
+Instructors can build their own test questions and assign specific point values to each question. When a student completes a test, it is submitted for grading and the results are recorded in the Grade Center. Tests can be added to any content area within a course. Instructors can export tests from their current or previous courses and import tests into a new course.
 
 ### Export a Test
    * Log into your course in Blackboard and go to the Control Panel
