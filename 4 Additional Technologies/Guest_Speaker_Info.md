@@ -1,4 +1,6 @@
-# BEFORE THE WEBINAR – A CHECKLIST
+# Webinars
+
+## Before the Webinar - A Checklist of Things To Consider
 
 &#x2610;&nbsp;  Schedule Webinar in blackboard, if you don’t know how, contact Neal/Allison
 
@@ -8,12 +10,12 @@
 
 ----
 
-#### If speaker has UTORid <br>
+### If speaker has UTORid <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610;&nbsp; add speaker to course with UTORid and make speaker a moderator in the webinar
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610;&nbsp; if speaker is new to bb collaborate, ensure Neal/Allison set up time to meet with speaker to discuss webinar software & download/install BB collaberate launcher
 
-#### If speaker does not have UTORid <br>
+### If speaker does not have UTORid <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610;&nbsp; ensure Neal/Allison set up time to meet with speaker to show webinar software, download/install launcher
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610;&nbsp; ensure you know how to make speaker with UTORId a moderator after signing in with guest link
@@ -30,7 +32,7 @@
 
 &#x2610;&nbsp; Ensure you’re aware how to make the presenter a moderator (if needed)
 
-### DURING THE WEBINAR
+## During the Webinar
 
 &#x2610;&nbsp; Sign in early. Webinar defaults to open 15 minutes before the start of the webinar, but often is set to open 30 minute before.
 
@@ -41,7 +43,7 @@
 &#x2610;&nbsp; Before starting remember to click Talk, Video and Record
 
 
-# SETTING UP THE WEBINAR IN BLACKBOARD
+## Setting up the Webinar
 
 Go to your course and click on Webinar, click on Schedule a Session. This will open a window for you to input the details.
 
@@ -61,7 +63,7 @@ Click on the Add Moderator to add anyone in the course\* as a moderator to the w
 
 Click SAVE to save the webinar settings.
 
-# WEBINAR BASICS
+## Webinar Basics
 
 To run a webinar, the Blackboard Collaborate Launcher must be downloaded and installed. After installing the launcher, click on the webinar name when the webinar is open.  The webinar is available when this symbol ![BB Collab Symbol](Guest_Speaker_Info/collab.jpg) appears beside the webinar name. Then click on the ‘Join Room’ button and a file called meeting.collab with download. If it doesn’t open automatically, open this file to start the webinar.
 
@@ -83,7 +85,7 @@ When ready to start the webinar, turn click on the ‘Talk’ button, then the �
 
 
 
-# SLIDES
+### Slides
 
 Presentations must be PowerPoint files. PDF files will not upload. Please ensure that the PowerPoint program is CLOSED before you upload your presentation in the collaboration software.
 
@@ -94,7 +96,7 @@ Videos will not stream in the PowerPoint presentation.
 It is possible to play video during a presentation, however it must be played separately from the presentation and cannot be streamed. People watching remotely should be given a URL (it’s possible to do this via the webinar chat) so that can play the video at the same time as it is being played 'live', but will be separate from webinar and not seen by webinar users through the webinar software.
 
 
-# UPLOADING POWERPOINT FILES
+### Uploading Powerpoint Files
 
 After signing in as a moderator, on the top right there is a 'Load Content' button.
 
