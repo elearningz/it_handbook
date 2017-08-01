@@ -1,6 +1,6 @@
 # Course Lifecycle
 
-Each of your courses in the Portal has a course lifecycle that begins once the course is created and made available in Blackboard. There are certain events that are triggered automatically by the University's central administrators and there are some suggested tasks that you as a faculty member are responsible for. These suggested tasks will make preserving your course content easier from course to course and year over year and also highlight some of the things that need to happen to make your course available to your students.
+Each of your courses in the Portal has a course lifecycle that begins once the course is created and made available in Blackboard. There are certain events that are triggered automatically by the University's central administrators and there are some suggested tasks that you, as a faculty member, are responsible to complete. These suggested tasks will make preserving your course content easier from course to course and year to year and also highlights some of the things that need to happen to make your course available to your students.
 
 ## Timeline of Events (with suggested tasks)
 
