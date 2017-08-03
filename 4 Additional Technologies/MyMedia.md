@@ -1,6 +1,6 @@
 # MyMedia
 
-MyMedia is a U of T resource that can be used as a streaming media platform and archival storage for video and audio content. All media filea uploaded here are re-encoded into standard format for playback over the web. You can think about it a little bit like an internally managed YouTube.
+MyMedia is a U of T resource that can be used as a streaming media platform and archival storage for video and audio content. All media files uploaded here are re-encoded into standard format for playback over the web. You can think about it a little bit like an internally managed YouTube.
 
 Faculty have unlimited storage space on MyMedia so it is a great place to store recorded presentations or other teaching material for ongoing use. In addition students have access to upload up to 30 videos so it is a good opportunity to use it to create multimedia assignments.
 

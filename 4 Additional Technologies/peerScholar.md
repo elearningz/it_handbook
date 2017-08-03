@@ -4,6 +4,7 @@ peerScholar is a peer assessment tool. Developed by Professor, Steve Joordens an
 
 peerScholar can be a good way to engage students in scaffolded assignments allowing them multiple opportunities for feedback from peers before submitting a larger final work to you.
 
+## We should wait to update this session after seeing what the new peerScholar is actually like.
 peerScholar how-to viodeos: http://peerscholar.com/how-to-videos
 
 **peerScholar cannot be used with Internet Explorer**<br>
