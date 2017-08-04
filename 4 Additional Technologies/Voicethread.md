@@ -1,6 +1,6 @@
 # Voicethread
 
-[VoiceThread](https://voicethread.com/) is an online platform that allows you to put digital media such as images, videos, and documents at the center of an asynchronous conversation. It allows you and your students to contribute to discussions using a keyboard, microphone or webcam.
+[VoiceThread](https://voicethread.com/) is an online platform that allows you to put digital media such as images, videos and documents at the centre of an asynchronous conversation. It allows you and your students to contribute to discussions using a keyboard, microphone or webcam.
 
 Please see the videos below for more information:
 

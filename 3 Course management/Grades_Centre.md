@@ -14,7 +14,7 @@ The grades centre has a listing of your enrolled students with their names, UTOR
    - Click Submit. This will take you to a new page.
    - To download the file, click on the Download button.
 
-### Hide Grades from Student / Release Grades to Students
+## Hide Grades from Student / Release Grades to Students
    1. Go to the Full Grades Centre
    - Find the column you wish to hide or make available to students.
    - Click on the grey chevron beside the column name and choose Hide from Students (on/off).

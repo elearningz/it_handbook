@@ -10,7 +10,7 @@ Instructors can build their own test questions and assign specific point values 
    * Choose Export to Content Collection to save it in your Blackboard content collection.
 
 
-Import a Test
+### Import a Test
    * Log into your course in Blackboard and go to the Control Panel
    * Click on Course Tools and select Tests, Surveys and Pools
    * Click on the Tests link and then click on Import Test
@@ -19,8 +19,21 @@ Import a Test
        * If your exported test is in your content collection, click the Browse Content Collection and navigate to the file.
    * Then click Submit
 
-### Clearing Out Old Tests
-It is good practise to clear out old exams and test before achieving for copying a course.
+### Back-up Your Tests
+
+It is good practise to back-up your Tests. You can easily export your test/exam from Blackboard and store it on your computer and/or back-up storage device.
+
+To export an test:
+
+1. Go to the Control Panel. Click Course Tools then select Tests, Surveys and Pools.
+2. Click the Tests link.
+3. Click the contextual menu button next to the test you would like to export.
+To save your test file to:
+  *  A local computer: click Export to Local Computer, then specify a save location;
+  *  Your Content collection: click Export to Content Collection, specify a save location.
+
+It is recommended that you do this at the end of every term. This will reduce the number of duplicate tests carried from course copy to course copy.
+
 
 
 
