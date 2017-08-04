@@ -16,15 +16,15 @@ For more information about creating course archives please visit the Portal Info
 
 ### Create and Download an Archive of your Course
    1. Log into Blackboard and go to your courses Control Panel
-   - Click on Packages and Utilities and select Export/Archive Course
-   * Click on the Archive Course button that appears on the next page
-   - Choose Include Grade Centre History if applicable
-   - Ensure that Copy links and include copies of the files in the course default directory is chosen. This will copy course links and files from the current course folder into the destination course and Content folder.
-   - Click Submit. You will see confirmation on the screen that the system has received the request.
-   - When the archive is ready, the system will send you an email that the Archive package is ready to Download.
-   - After receiving an email indicating that your archive package is ready, log back into Blackboard and go to your course.
-   - Go to the **Control Panel** and click on **Packages and Utilities** and select **Export/Archive Course**.
-   - Click on the link to the Zipped Archive that is now available to initiate your download.
+   2. Click on Packages and Utilities and select Export/Archive Course
+   3. Click on the Archive Course button that appears on the next page
+   4. Choose Include Grade Centre History if applicable
+   5. Ensure that Copy links and include copies of the files in the course default directory is chosen. This will copy course links and files from the current course folder into the destination course and Content folder.
+   6. Click Submit. You will see confirmation on the screen that the system has received the request.
+   7. When the archive is ready, the system will send you an email that the Archive package is ready to Download.
+   8. After receiving an email indicating that your archive package is ready, log back into Blackboard and go to your course.
+   9. Go to the **Control Panel** and click on **Packages and Utilities** and select **Export/Archive Course**.
+   10. Click on the link to the Zipped Archive that is now available to initiate your download.
 
 **Note:** It may take several minutes to several hours following the receipt of the confirmation message for imported course package materials to appear in the new shell. Please be patient.
 
