@@ -8,7 +8,6 @@ You can create one or more wikis for all course members to contribute to and wik
 
 For more information, watch the video below:
 
-
 [How To Create and Manage Wikis](https://www.youtube.com/watch?v=-l6778cP0jM)
 
 Wikis are available under Tools

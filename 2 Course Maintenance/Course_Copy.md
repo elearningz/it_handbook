@@ -11,11 +11,11 @@ You can perform a course copy by following the steps below or you can request a 
 ## How to Copy Course Content into a New or Existing Course
 
    1. Log into Blackboard and go to the course you'd like to copy from
-   - Go to the course Control Panel
-   - Click on Packages and Utilities and select Course Copy
-   - Click on the Browse Button and choose the course you’d like to copy the materials into
-   - Check the boxes of the areas you’d like copied over to the new course
-   - We recommend in most instances to use the "copy links and copies of the content" option for file attachments*
+   2. Go to the course Control Panel
+   3. Click on Packages and Utilities and select Course Copy
+   4. Click on the Browse Button and choose the course you’d like to copy the materials into
+   5. Check the boxes of the areas you’d like copied over to the new course
+   6. We recommend in most instances to use the "copy links and copies of the content" option for file attachments*
 
    ![Courses Copy File Attachment Detail](Courses_Copy/CopyLinks.png)   
    - Click Submit. You will receive confirmation on the screen when the system has received the copy request

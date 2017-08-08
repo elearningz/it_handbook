@@ -32,12 +32,9 @@ To save your test file to:
   *  A local computer: click Export to Local Computer, then specify a save location;
   *  Your Content collection: click Export to Content Collection, specify a save location.
 
-It is recommended that you do this at the end of every term. This will reduce the number of duplicate tests carried from course copy to course copy.
+It is *strongly* recommended that you do this at the end of every term. This will reduce the number of duplicate tests carried from course copy to course copy.
 
 
 
 
 EOF
-
-
-_ __Note__ about backing up tests you want to keep and clearing old tests you don’t want so we don’t end up with a  bunch of duplicate tests and assignments in the course year over year.

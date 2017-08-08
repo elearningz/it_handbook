@@ -35,17 +35,15 @@ For more information about creating course exports please visit the Portal Info 
 ### Create and Download an Export of your Course
 
 1. Go to the Control Panel from within your course page.
-- Click on Packages and Utilities, and then select Export/Archive Course.
-- On the next page, click the Export button.
-- Next to Course Files Default Directory, verify that Copy links and Include Copies of the Files in the Course Default Directory has been selected. This will copy course links and files from the current course folder into the destination course and Content folder.
-- Next to Files Outside of the Course Files Default Directory, verify that Copy links and Include Copies of the Files in the Course Default Directory has been selected. This will copy course links and files from the current course folder into the destination course and Content folder.
-- Tick the boxes next to the content to be exported.
-- Click Submit. A confirmation screen will appear once the system has received the export request.
-- Once the Export operation has completed a link to a .zip file containing exported course content will be available. You may need to click the Refresh button or click on Export/Archive Course under Packages and Utilities again to see the link to the .zip file. Click this link to download this file to your computer.
+2. Click on Packages and Utilities, and then select Export/Archive Course.
+3. On the next page, click the Export button.
+4. Next to Course Files Default Directory, verify that Copy links and Include Copies of the Files in the Course Default Directory has been selected. This will copy course links and files from the current course folder into the destination course and Content folder.
+5. Next to Files Outside of the Course Files Default Directory, verify that Copy links and Include Copies of the Files in the Course Default Directory has been selected. This will copy course links and files from the current course folder into the destination course and Content folder.
+6. Tick the boxes next to the content to be exported.
+7. Click Submit. A confirmation screen will appear once the system has received the export request.
+8. Once the Export operation has completed a link to a .zip file containing exported course content will be available. You may need to click the Refresh button or click on Export/Archive Course under Packages and Utilities again to see the link to the .zip file. Click this link to download this file to your computer.
 
 **Note**: When the export has completed you will receive an email message. This email message will note that the export file is available for download.
 It may take some time following the receipt of this email for the export file to be created depending on the course file size.
 
 EOF
-
-*Explain the difference between Archive and Export… what’s included in an Export file why might you want each or which one should I choose? Help instructors determine the best use case for their situation. Note also that it is their responsibility to backup their courses at the end of the semester… mention deadlines as referred to in the course lifecycle. *

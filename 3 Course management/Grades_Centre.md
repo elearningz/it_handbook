@@ -8,31 +8,31 @@ The grades centre has a listing of your enrolled students with their names, UTOR
 
 ## To Download Grades / Class List
    1. Go to you Grades Centre
-   - On the Top Right of the Grades Columns, click on the Work Offline button and choose Upload or Download. Use Upload VERY SPARINGLY. It WILL OVERRIGHT grades if not done properly. If you wish to use the Upload feature, please come and talk to Neal/Allison before you begin.
-   - To download the grades or class list, choose Download
-   - Then choose the Full Grades Centre or the column you wish to download or User information only (for a class list)
-   - Click Submit. This will take you to a new page.
-   - To download the file, click on the Download button.
+   2. On the Top Right of the Grades Columns, click on the Work Offline button and choose Upload or Download. Use Upload VERY SPARINGLY. It WILL OVERRIGHT grades if not done properly. If you wish to use the Upload feature, please come and talk to Neal/Allison before you begin.
+   3. To download the grades or class list, choose Download
+   4. Then choose the Full Grades Centre or the column you wish to download or User information only (for a class list)
+   5. Click Submit. This will take you to a new page.
+   66. To download the file, click on the Download button.
 
 ## Hide Grades from Student / Release Grades to Students
    1. Go to the Full Grades Centre
-   - Find the column you wish to hide or make available to students.
-   - Click on the grey chevron beside the column name and choose Hide from Students (on/off).
-   - If a red diagonal line appears beside the name of the column, the student cannot see the grades in their column. (FYI – student do not see these columns. Their grades appear under My Grades.)
+   2. Find the column you wish to hide or make available to students.
+   3. Click on the grey chevron beside the column name and choose Hide from Students (on/off).
+   4. If a red diagonal line appears beside the name of the column, the student cannot see the grades in their column. (FYI – student do not see these columns. Their grades appear under My Grades.)
 
 ## Create a column
    1. In the Full Grades Centre and click on Create Column. Create a Calculated Column is a different type of column and you should talk to either Neal or Allison before trying to crete a calculated column
-   - Enter in the column name (required)
-   - Enter in the total number of points possible (required)
-   - Change Include this Column in Grade Centre Calculations to No
-   - Change Show this column to Students to No
-   - Click Submit
+   2. Enter in the column name (required)
+   3. Enter in the total number of points possible (required)
+   4. Change Include this Column in Grade Centre Calculations to No
+   5. Change Show this column to Students to No
+   6. Click Submit
 
 ## Hiding columns from everyone view
    1. To hide a column from sight (one that you don’t need to see or never use) navigate to the Full Grades Centre.
-   - Click on the Manage button and choose Column Organization
-   - Choose the column you no longer want to see in the Grades Centre and check the box and at the bottom of the page hover over the Show/Hide button and choose Hide Selected Columns
-   - Then click Submit
+   2. Click on the Manage button and choose Column Organization
+   3. Choose the column you no longer want to see in the Grades Centre and check the box and at the bottom of the page hover over the Show/Hide button and choose Hide Selected Columns
+   4. Then click Submit
 
    **Note:** The column isn’t deleted, just hidden from view. You can make the column visible again in the future if you want.
 

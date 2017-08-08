@@ -9,13 +9,13 @@ Adding course staff to a course is the same process as adding a Teaching Assista
    1. Go to **Control Panel**. Click on **Course Tools**.<br>
    ![ControlPanel Coure Tools](Adding_TAs/ControlPanelCourseTools.jpg)
 
-   - Select **UT Manage Users**.<br>
+   2. Select **UT Manage Users**.<br>
    ![UT Manage Users](Adding_TAs/UTManageUsers.jpg)
 
-   - Enter the UTORid for the Teaching Assistant or course staff member and click **Go**. (Note: The UTORid should be obtained from the individual.)<br>
+   3. Enter the UTORid for the Teaching Assistant or course staff member and click **Go**. (Note: The UTORid should be obtained from the individual.)<br>
    ![Enter UTORid](Adding_TAs/EnterUTORID.jpg)
 
-   - Each individual you add to your course will need an identified Role. From the **Add Role** drop down menu, choose a role (e.g. TA, Grader, etc.). Click **Add** and then click **OK**.<br>
+   4. Each individual you add to your course will need an identified Role. From the **Add Role** drop down menu, choose a role (e.g. TA, Grader, etc.). Click **Add** and then click **OK**.<br>
    ![ControlPanel Coure Tools](Adding_TAs/RolesandAdd.jpg)
 
 
