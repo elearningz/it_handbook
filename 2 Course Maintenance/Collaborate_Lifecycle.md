@@ -1,7 +1,7 @@
 # Blackboard Collaborate Lifecycle and Back-up
 
-If you use
-Blackboard Collaborate, your course files will be removed from Blackboard after 1 year (for single semester courses) or 9 months (for multi-semester courses).
+If you use Blackboard Collaborate to deliver webinars, your course files will be removed from Blackboard after 1 year (for single semester courses) or 9 months (for multi-semester courses).
+
 It is your responsibility to back-up and archive your Blackboard Collaborate Recordings / Webinars.
 
 ## To Back-Up your Blackboard Collaborate / Webinar Recordings

@@ -1,10 +1,14 @@
 # Nursing Surveys (LimeSurvey)
 
-Rationale info and use cases... TBC
+The Faculty of Nursing now has a survey tool with more funtionality than the built-in blackboard survey functionality included with your courses. If you are interested in accessing this tool you will first need to request an account.
+
+You can use this tool to create anonymous surveys, and have access to advanced features such as survey logic and branching.
+
+An example use of this tool could be gathering mid-term feedback from students.
 
 ## Request an Account
 
-To request an account at surveys.nursing.utoronto.ca please contact...
+To request an account at surveys.nursing.utoronto.ca please contact: it.nursing@utoronto.ca
 
 ## Logging In
 
@@ -17,6 +21,8 @@ A link to a Quick Introduction for LimeSurvey: https://manual.limesurvey.org/Gen
 
 ## Changing Your Password
 
+Once you've logged in we recommend updating your password. To do this follow the steps listed below:
+
    1. Go to Your Account (click on your user name in the top right corner).
    2. Enter your new password in the Password field.
    3. Enter it again in the Repeat Password field
@@ -27,7 +33,7 @@ To see already created surveys, click on the List surveys box.
 
 To create a new survey, click on the Create Survey box
 
-### 1. Create a Survey
+### Create a Survey
 #### Creating a New Survey
    1. After clicking on the Create Survey box, enter in a survey title and Description (if 			needed), a Welcome Message (if needed) and an End message (if needed). All of 			these can be entered later (except for the survey title).
    2.  On the right side of the page, there are a number of options that can be adjusted 			as needed at a later date.
@@ -39,10 +45,10 @@ To create a new survey, click on the Create Survey box
    2. Click the Choose File button and import the file.
    3. Please read more about this feature here: 						https://manual.limesurvey.org/Importing_a_survey_structure
 
-### 2. Creating Question Groups
+### Create Question Groups
    1. Click on the Create a Group Button, then enter a Title and Description (if needed) and 	Click Save and Close.
 
-### 3. Creating Questions
+### Create Questions
    1. Click on the Add new question to group button
    2. Enter question code
    3. On the Right Side of the page, choose the question type, make the question mandatory 	(or not) and any of the other options available to you.
@@ -51,7 +57,7 @@ To create a new survey, click on the Create Survey box
    6. Information regarding that various question types can be found here: 		https://manual.limesurvey.org/Question_types
 
 
-### 4. Creating Sub-questions
+### Create Sub-questions
 Some questions require *sub-questions* to add the various answer choices (i.e. Multiple Choice Questions)
    1. After saving and closing the question, in the Question Summary, 	choose Edit subquestions on the Top Menu Bar
    2. Enter the number of subquestions required and click Save and Close (or just Save)
@@ -62,3 +68,8 @@ This link gives some General Information on many aspects of LimeSurvey.
 Look here first: https://manual.limesurvey.org/General_FAQ
 
 The LimeSurvey Online Manual is available here: https://manual.limesurvey.org/
+
+
+NOTE:
+
+NEED IMAGES and Screenshots.

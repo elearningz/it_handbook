@@ -1,9 +1,12 @@
-# TopHat
+# Top Hat
 
-  * Primarily used in Undergraduate courses, TopHat is used to engage students during class.
-  * Often polling questions, answered in real time by students using their smartphones in class.
-  * Software is straight forward to use and is available on a portable USB stick which can be used on teaching podiums.
-  * Often used for classroom polling and questions to keep students engaged.
+Top Hat, a classroom response tool, is available across the undergraduate program for 2017-18.
 
-  * Works on any WIFI connected device (i.e. smartphones/tablets)
-  * Immediate feedback from students - keeps engagement
+It has replaced iClicker and takes advantage of the greater functionality of students' smartphones, computers, and tablets.
+
+It has many great functionality improvements over the previous system, not the least of which is a greater variet of question types and the ability to save data from each session for review.
+
+## Alternatives
+
+If you are not teaching in the Undergraduate Program but are still interested in classroom response there are some alternatives (ie. PollEverywhere) that are free to use in a limited capacity.
+  

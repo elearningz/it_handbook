@@ -42,12 +42,26 @@ There are two ways you can get your multimedia content up on MyMedia:
 
 ## Media Production Support
 
-There are a number of in-house video production options available. Nursing has available [Articulate](https://articulate.com/),  [Camtasia](https://www.techsmith.com/video-editor.html) and [TechSmith Relay](https://www.techsmith.com/techsmith-relay.html).
+There are a number of in-house media production options available.
 
-**Articulate** is used to create SCORM(??true?) learning modules. If you're interested in creating an online learning modules, please contact Neal or Allison to discuss options.
+### Recording and Editing Software:
 
-**Camtasia** is a video recording and editing software. It can be used to create videos which can be recorded in parts, edited and then easily uploaded to MyMedia for easy placement in your Blackboard course without taking up space in the course folder.
+ [Articulate](https://articulate.com/),  [Camtasia](https://www.techsmith.com/video-editor.html) and [TechSmith Relay](https://www.techsmith.com/techsmith-relay.html).
 
-**TechSmith Relay** is an easy to use recording software to record a quick video. After recoding your video, you can then 'trim the edges' (I.e. cut off the beginning and end) of the video only. This software then easily uploads your video to MyMedia for easy palcement in Blackboard.
+**Articulate** is used to create interactive learning modules. If you're interested in creating an online learning modules, please contact Neal or Allison to discuss options.
+
+**Camtasia** is a screen and webcam recording and editing software. It can be used to create videos which can be recorded in parts, edited and then easily uploaded to MyMedia for easy placement in your Blackboard course without taking up space in the course folder.
+
+**TechSmith Relay** is an easy to use recording software for screen recording and webcam video. After recording your video, you can then 'trim the edges' (I.e. cut off the beginning and end) of the video only. This software then easily uploads your video to MyMedia for easy palcement in Blackboard.
+
+**Adobe Premiere** is a professional video editing suite that can edit and export digital video and audio.
+
+### Recording Hardware
+
+**JVC HD Cameras**: Two 1080p JVC Video Cameras
+
+**Wireless Lavalier Microphone**: One wireless lavalier microphone for attaching to teh video camera or a computer
+
+**Microsoft Surface**: One Microsoft Surface for hand annotated screen recording
 
 The Academic Technology team is also available for assistance and consultation in any of your video projects. Please contact us with any questions regarding videos and your best options for creating them.
