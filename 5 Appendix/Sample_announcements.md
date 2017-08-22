@@ -1,37 +1,28 @@
 # Sample Announcements
 
+The following page contains some messaging templates that can be used or modified for email messages or blackboard announcements for students.
+
 ## Exam Scheduling - ProctorU
 
 Proctor U Exam Scheduling Open
 
 Your exam is now open for scheduling in Proctor U.
 
-If you have not had the chance yet please go to https://proctoru.com/portal/utoronto and sign up for an account.
+If you have not had the chance yet please go to [www.proctoru.com/portal/utoronto-nursing](https://www.proctoru.com/portal/utoronto-nursing) and sign up for an account.
 
-In addition, please take the time to test out your settings using https://proctoru.com/testitout/ and/or [speedtest.net](http://speedtest.net).
+In addition, please take the time to test out your settings using [proctoru.com/testitout/](https://proctoru.com/testitout/) and/or [speedtest.net](http://speedtest.net).
 
 We also recommend using the form on Proctor U's Test it Out page to contact a live person if you are at all concerned about your computer or internet speed as it relates to writing your exam. They will be able to double check your settings with you and help alleviate any concerns prior to the exam day.
 
 ### To schedule your exam
 
-  1. Go to https://proctoru.com/portal/utoronto and login to your Proctor U account
+  1. Go to [proctoru.com/testitout/](https://proctoru.com/testitout/) and login to your Proctor U account
   2. Click "Schedule a New Session"
-  3. Select the *[Term and Year, I.e Fall 2017]* Term
+  3. Select the Term and Year (ie. Fall 2017)
   4. Select your course's test/exam and click "Find Session"
   5. Choose the time you would like out of those available for your test/exam
 
 **Note:** There is a live chat support available on the scheduling page if you have any questions for Proctor U.
-
-----------------------
-## Guest Lecture Announcements
-
-Guest Lecture for [TOPIC]
-
-Good morning everyone,
-
-We will be having a guest speaker, [NAME] [(title, workplace)], for the [TOPIC] on [DATE] at [TIME].  She [or He] will be discussing the [MORE SPECIFIC TOPICS].  You are welcome to attend this talk in person at the Faculty in Room [ROOM], tune in via Blackboard Collaborate, or watch the taped version in Blackboard.
-
-[YOUR NAME]
 
 ---------------------------
 
@@ -73,3 +64,14 @@ If you had technical issues in the past or are concerned about using Proctor U p
 **NOTE:** If you have any issues during the exam and can communicate with your proctor, you should chat or speak to them to resolve the issue. If you cannot communicate with the proctor, you may contact Neal MacInnes (neal.macinnes@utoronto.ca) at 416-946-8749 or Allison Lee (ali.lee@utoronto.ca) - 416-946-8434
 
 ----------------------
+## Guest Lecture Announcements
+
+Guest Lecture for [TOPIC]
+
+Good morning everyone,
+
+We will be having a guest speaker, [NAME] [(title, workplace)], for the [TOPIC] on [DATE] at [TIME].  She [or He] will be discussing the [MORE SPECIFIC TOPICS].  You are welcome to attend this talk in person at the Faculty in Room [ROOM], tune in via Blackboard Collaborate, or watch the taped version in Blackboard.
+
+You can join the webinar by using the following link (PUT GUEST LINK HERE) or by going to the webinars area of your course and clicking on the scheduled session followed by Join Room.
+
+[YOUR NAME]
