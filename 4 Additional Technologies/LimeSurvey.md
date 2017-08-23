@@ -63,15 +63,24 @@ To create a new survey, click on the Create Survey box
 ### Create Questions
    1. Click on the Add new question to group button
    2. Enter question code
+
+      ![LimeSurvey account](LimeSurvey/ques-add-code.GIF)
    3. On the Right Side of the page, choose the question type, make the question mandatory 	(or not) and any of the other options available to you.
+
+      ![LimeSurvey account](LimeSurvey/ques-type.GIF)
    4. Enter the question text in the Question: box on the Left Side of the page
    5. On the Top Right, click Save, or Save and Close
+
+      ![LimeSurvey account](LimeSurvey/save.GIF)
    6. Information regarding that various question types can be found here: 		https://manual.limesurvey.org/Question_types
 
 
 ### Create Sub-questions
 Some questions require *sub-questions* to add the various answer choices (i.e. Multiple Choice Questions)
-   1. After saving and closing the question, in the Question Summary, 	choose Edit subquestions on the Top Menu Bar
+   1. After saving and closing the question, in the Question Summary, 	choose Edit subquestions on the Top Menu Bar or click the add subquestion warning link:
+
+      ![LimeSurvey account](LimeSurvey/sub-ques.GIF)
+
    2. Enter the number of subquestions required and click Save and Close (or just Save)
 
 
@@ -80,8 +89,3 @@ This link gives some General Information on many aspects of LimeSurvey.
 Look here first: https://manual.limesurvey.org/General_FAQ
 
 The LimeSurvey Online Manual is available here: https://manual.limesurvey.org/
-
-
-NOTE:
-
-NEED IMAGES and Screenshots.
