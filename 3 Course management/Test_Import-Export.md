@@ -33,8 +33,3 @@ To save your test file to:
   *  Your Content collection: click Export to Content Collection, specify a save location.
 
 It is *strongly* recommended that you do this at the end of every term. This will reduce the number of duplicate tests carried from course copy to course copy.
-
-
-
-
-EOF

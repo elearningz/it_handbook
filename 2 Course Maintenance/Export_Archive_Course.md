@@ -45,5 +45,3 @@ For more information about creating course exports please visit the Portal Info 
 
 **Note**: When the export has completed you will receive an email message. This email message will note that the export file is available for download.
 It may take some time following the receipt of this email for the export file to be created depending on the course file size.
-
-EOF
