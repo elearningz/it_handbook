@@ -16,6 +16,8 @@ Logging in: Go to https://surveys.nursing.utoronto.ca/admin/authentication/sa/lo
 
 Sign in using your username and the auto generated password sent to you.
 
+![LimeSurvey Login](LimeSurvey/login.GIF)
+
 A link to a Quick Introduction for LimeSurvey: https://manual.limesurvey.org/General_FAQ#I_need_a_quick_introduction_for_LimeSurvey
 
 
@@ -24,9 +26,13 @@ A link to a Quick Introduction for LimeSurvey: https://manual.limesurvey.org/Gen
 Once you've logged in we recommend updating your password. To do this follow the steps listed below:
 
    1. Go to Your Account (click on your user name in the top right corner).
+![LimeSurvey account](LimeSurvey/account-settings.GIF)    
    2. Enter your new password in the Password field.
+![LimeSurvey account](LimeSurvey/pswd_update.GIF)    
    3. Enter it again in the Repeat Password field
    4. Click Save (or Save and Close)
+
+
 
 ## Creating Surveys and Questions
 To see already created surveys, click on the List surveys box.
@@ -35,6 +41,9 @@ To create a new survey, click on the Create Survey box
 
 ### Create a Survey
 #### Creating a New Survey
+
+![LimeSurvey account](LimeSurvey/create-survey.GIF)
+
    1. After clicking on the Create Survey box, enter in a survey title and Description (if 			needed), a Welcome Message (if needed) and an End message (if needed). All of 			these can be entered later (except for the survey title).
    2.  On the right side of the page, there are a number of options that can be adjusted 			as needed at a later date.
    3. Add details of these options later (or somewhere else and link to it??)
@@ -43,6 +52,9 @@ To create a new survey, click on the Create Survey box
 #### Creating a New Survey Using Import
    1. On the Top Left side of the page, click on ‘Import’
    2. Click the Choose File button and import the file.
+
+   ![LimeSurvey account](LimeSurvey/create-menu.GIF)
+
    3. Please read more about this feature here: 						https://manual.limesurvey.org/Importing_a_survey_structure
 
 ### Create Question Groups
