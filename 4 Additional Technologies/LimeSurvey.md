@@ -26,7 +26,8 @@ A link to a Quick Introduction for LimeSurvey: https://manual.limesurvey.org/Gen
 Once you've logged in we recommend updating your password. To do this follow the steps listed below:
 
    1. Go to Your Account (click on your user name in the top right corner).
-![LimeSurvey account](LimeSurvey/account-settings.GIF)    
+![LimeSurvey account](LimeSurvey/account-settings.GIF)  
+
    2. Enter your new password in the Password field.
 ![LimeSurvey account](LimeSurvey/pswd_update.GIF)    
    3. Enter it again in the Repeat Password field
